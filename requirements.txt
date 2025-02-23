@@ -1,0 +1,37 @@
+# Core dependencies
+streamlit>=1.31.0
+google-generativeai>=0.3.1
+python-dotenv>=1.0.0
+
+# File processing
+PyPDF2>=3.0.0
+python-docx>=1.0.0
+Pillow>=10.0.0
+
+# Data handling
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Language and Speech
+langdetect>=1.0.9
+googletrans>=3.1.0a0
+gTTS>=2.3.2
+SpeechRecognition>=3.10.0
+
+# Database
+sqlite3>=3.35.0
+
+# Security
+hashlib>=20.0.0
+secrets>=1.0.0
+
+# Email
+smtplib>=3.35.0
+email>=3.0.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utils
+requests>=2.31.0 
