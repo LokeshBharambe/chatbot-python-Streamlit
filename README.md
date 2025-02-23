@@ -85,7 +85,7 @@ MIT License - feel free to use and modify!
 
 - Create an issue for bugs
 - Star the repo if you like it!
-- Contact: your@email.com
+- Contact: lokeshbharambe26@gmail.com
 
 ## 🙏 Acknowledgments
 
