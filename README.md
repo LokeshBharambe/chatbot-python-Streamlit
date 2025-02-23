@@ -94,4 +94,4 @@ MIT License - feel free to use and modify!
 - All contributors
 
 ---
-Made with ❤️ by [Lokesh]
+Made with ❤️ by Lokesh
